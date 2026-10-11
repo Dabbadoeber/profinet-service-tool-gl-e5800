@@ -1,0 +1,8 @@
+MIT License
+
+This project contains code or adaptations derived from robavionix/gl-e5800-dashboard.
+Original project: https://github.com/robavionix/gl-e5800-dashboard
+
+Before publishing redistributed source, copy the complete unmodified original
+copyright notice and MIT license from the upstream repository here. This file
+is a provisional attribution marker, NOT a substitute for the original notice.
